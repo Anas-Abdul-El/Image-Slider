@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@theme {
+    --transform-3d: perspective(1000px);
+    --animate-autorun: run 20s linear infinite
+}
+
+@keyframes run {
+    0% {
+        transform: perspective(1000px) rotateX(-4deg) rotateY(0deg);
+    }
+
+    100% {
+        transform: perspective(1000px) rotateX(-4deg) rotateY(360deg);
+    }
+
+}
+
+.item {
+    transform: rotateY(calc((var(--position) - 1) * (360 / var(--quantity)) * 1deg)) translateZ(550px);
+}
+
+section h1 {
+    -webkit-text-stroke: rgb(255, 246, 246) 1px;
+}
