@@ -32,7 +32,7 @@ It’s a lightweight, fast, and visually appealing component .
 | *Vite* | Development and build tool |
 
 ---
-
+---
 ## 📸 Preview
 
 <img url=("https://github.com/Anas-Abdul-El/Image-Slider/blob/main/public/Screenshot%202025-10-18%20115055.png")>
