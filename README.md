@@ -35,10 +35,6 @@ It’s a lightweight, fast, and visually appealing component .
 
 ## 📸 Preview
 
-![3D Slider Preview](https://via.placeholder.com/800x400)
-
-(Replace the link above with a real screenshot or GIF of your project)
+<img url=("https://github.com/Anas-Abdul-El/Image-Slider/blob/main/public/Screenshot%202025-10-18%20115055.png")>
 
 ---
-
-## 📂 Folder Structure
