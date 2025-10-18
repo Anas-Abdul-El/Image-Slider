@@ -35,6 +35,6 @@ It’s a lightweight, fast, and visually appealing component .
 ---
 ## 📸 Preview
 
-  <img src="[assests/img/Screenshot 2025-10-13 173114.png](https://github.com/Anas-Abdul-El/Image-Slider/blob/main/public/Screenshot%202025-10-18%20115055.png)" width="600" alt="Portfolio Preview" />
+  <img src="https://github.com/Anas-Abdul-El/Image-Slider/blob/main/public/Screenshot%202025-10-18%20115055.png" width="600" alt="Portfolio Preview" />
 
 ---
